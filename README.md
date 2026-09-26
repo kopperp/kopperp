@@ -5,7 +5,7 @@
   <a href="https://orcid.org/0000-0002-7613-0739">ORCID</a>
 </p>
 
-I am a Software Engineer at CERN. Currently, I am working on improving for Scientific Libraries for High-Performance Computing (HPC) and GPU acceleration.
+I am a Software Engineer at CERN. Currently, I am working on improving scientific libraries for High-Performance Computing (HPC) and GPU acceleration.
 
 ### What do I do and What have I done?
 - My motivation has always been the combination of scientific curiosity and the challenges of cutting-edge technology.
